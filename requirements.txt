@@ -1,0 +1,7 @@
+streamlit
+speedtest-cli
+pandas
+plotly
+requests
+pyttsx3
+
