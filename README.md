@@ -44,10 +44,6 @@ streamlit run app.py
 
 Then open http://localhost:8501 in your browser.
 
-🌐 Deploy Online (Streamlit Cloud)
-
-
-Link your GitHub repo and deploy — free & simple!
 
 📁 Project Structure
 
